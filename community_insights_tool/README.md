@@ -35,13 +35,8 @@ pip install flask openai requests
 
 ### 3. Set your OpenAI API key
 
-Export your API key as an environment variable:
+Copy your OpenAI API key to bot.py and extract_feedback.py
 
-```bash
-export OPENAI_API_KEY='your-openai-key'
-```
-
-Or set it inline in `extract_feedback.py` and `bot.py` if needed (not recommended).
 
 ---
 
@@ -67,16 +62,6 @@ community_insights_tool/
 └── README.md               # This file
 ```
 
----
-
-## Demo Suggestions
-
-Create a 5–7 minute video showing:
-1. Starting the app
-2. Exploring Stack Overflow insights
-3. Chatting with the AI for follow-up recommendations
-
----
 
 ## Notes
 
