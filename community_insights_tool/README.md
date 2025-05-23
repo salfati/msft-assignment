@@ -1,4 +1,4 @@
-#Community Insights Chatbot
+## Community Insights Chatbot
 
 This is an AI-powered conversational chatbot built using **Python**, **Flask**, and **OpenAI GPT-4** that:
 - Ingests developer questions from Stack Overflow
