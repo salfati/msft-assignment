@@ -21,7 +21,7 @@ This is an AI-powered conversational chatbot built using **Python**, **Flask**, 
 ### 1. Clone the repository or extract the files
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/salfati/msft-assignment
 cd community_insights_tool
 ```
 
